@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Demo app, I removed a few things like css and reportVitals to make the demo as small as possible.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
